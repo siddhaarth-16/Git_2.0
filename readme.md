@@ -14,3 +14,7 @@ This is a simple project created for learning Git and GitHub.
 
 ## Author
 Sidu
+
+## Bug Fix
+- Fixed the welcome message.
+- Updated the JavaScript alert.
