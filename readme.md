@@ -14,3 +14,6 @@ This is a simple project created for learning Git and GitHub.
 
 ## Author
 Sidu
+
+## New Feature
+- Added a Contact Us section.
