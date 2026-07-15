@@ -18,3 +18,6 @@ Sidu
 ## Bug Fix
 - Fixed the welcome message.
 - Updated the JavaScript alert.
+
+## new king 
+sidu is master
