@@ -13,7 +13,7 @@ This is a simple project created for learning Git and GitHub.
 - GitHub practice repository
 
 ## Author
-Sidu
+Siddhu
 
 ## New Feature
 - Added a Contact Us section.
